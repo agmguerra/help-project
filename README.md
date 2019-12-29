@@ -25,7 +25,11 @@ alguns comando uteis para diversos tipos de projetos. Para o caso de eu esquece 
 7. No prompt de comando, adicione a URL para o repositório remote onde será feito push do seu repositório local.
   <code>
     $ git remote add origin remote repository URL
+  
     Define o novo remote
+    
     $ git remote -v
+    
     Verifica a nova URL remota
+    
   </code>
